@@ -1,54 +1,54 @@
-     100 files     200 files     300 files     400 files     500 files     600 files     700 files     800 files     900 files    1000 files    1100 files    1200 files    1300 files    1400 files    1500 files    1600 files    1700 files    1800 files    1900 files    2000 files    2100 files    2200 files    2300 files    2309 text files.
-classified 2307 filesDuplicate file check 2307 files (1736 known unique)Unique:      100 files                                          Unique:      200 files                                          Unique:      300 files                                          Unique:      400 files                                          Unique:      500 files                                          Unique:      600 files                                          Unique:      700 files                                          Unique:      800 files                                          Unique:      900 files                                          Unique:     1000 files                                          Unique:     1100 files                                          Unique:     1200 files                                          Unique:     1300 files                                          Unique:     1400 files                                          Unique:     1500 files                                          Unique:     1600 files                                          Unique:     1700 files                                              2149 unique files.                              
-Counting:  100Counting:  200Counting:  300Counting:  400Counting:  500Counting:  600Counting:  700Counting:  800Counting:  900Counting:  1000Counting:  1100Counting:  1200Counting:  1300Counting:  1400Counting:  1500Counting:  1600Counting:  1700Counting:  1800Counting:  1900Counting:  2000Counting:  2100     653 files ignored.
+     100 files     200 files     300 files     400 files     500 files     600 files     700 files     800 files     900 files    1000 files    1100 files    1200 files    1300 files    1400 files    1500 files    1600 files    1700 files    1800 files    1900 files    2000 files    2100 files    2200 files    2300 files    2400 files    2500 files    2600 files    2696 text files.
+classified 2691 filesDuplicate file check 2691 files (1951 known unique)Unique:      100 files                                          Unique:      200 files                                          Unique:      300 files                                          Unique:      400 files                                          Unique:      500 files                                          Unique:      600 files                                          Unique:      700 files                                          Unique:      800 files                                          Unique:      900 files                                          Unique:     1000 files                                          Unique:     1100 files                                          Unique:     1200 files                                          Unique:     1300 files                                          Unique:     1400 files                                          Unique:     1500 files                                          Unique:     1600 files                                          Unique:     1700 files                                          Unique:     1800 files                                          Unique:     1900 files                                              2497 unique files.                              
+Counting:  100Counting:  200Counting:  300Counting:  400Counting:  500Counting:  600Counting:  700Counting:  800Counting:  900Counting:  1000Counting:  1100Counting:  1200Counting:  1300Counting:  1400Counting:  1500Counting:  1600Counting:  1700Counting:  1800Counting:  1900Counting:  2000Counting:  2100Counting:  2200Counting:  2300Counting:  2400     788 files ignored.
 
-github.com/AlDanial/cloc v 1.72  T=11.20 s (159.6 files/s, 47629.2 lines/s)
+github.com/AlDanial/cloc v 1.72  T=13.82 s (149.9 files/s, 44308.2 lines/s)
 ----------------------------------------------------------------------------------------
 Language                              files          blank        comment           code
 ----------------------------------------------------------------------------------------
-JavaScript                              935          28013          80791         210566
+JavaScript                              942          29673          82119         214970
 XML                                      13              2              0          71356
-JSON                                    248             63              0          53619
-CSS                                      74           2416            196          23256
-HTML                                     68           1426            174          21446
-Markdown                                162           5555              0          18811
+JSON                                    249             63              0          53628
+C/C++ Header                             61           6594           2700          42535
+CSS                                      81           2616            352          31691
+HTML                                    126           1739            179          23582
+Markdown                                175           5565              0          18909
+Python                                  125           1274            147           4482
+Sass                                     16            260             31           2782
 LESS                                     19            192             79           2253
 PHP                                      44            196             46           1700
-Sass                                     15             40             25           1606
+C                                         2            219             60           1432
+C++                                      22            135             47           1335
 CoffeeScript                             21            214             75           1199
-C/C++ Header                             12             45             31            922
-Python                                    9            214              6            727
-C++                                      10             57             34            691
 C#                                       33            134            412            663
 ASP.Net                                   9             29              0            563
 MSBuild script                            4              0              0            363
-make                                     19            106             18            287
+make                                     25            121             25            353
+TypeScript                                5             42              8            318
 YAML                                     13             15              2            205
-TypeScript                                3             18              0            125
+Bourne Shell                             10             33             15            193
 SQL                                       3             53             83            123
-Bourne Shell                              2             29             10            120
 Kotlin                                    1             10             26             94
 PowerShell                                2             28             12             77
-C                                         1              9              9             75
 Objective C                               1             27              4             73
+Bourne Again Shell                        7              1              0             63
 Scala                                     1              7              1             61
 liquid                                    1             18              0             58
-Bourne Again Shell                        5              1              0             52
 Stylus                                    2             11              8             41
 JSP                                       1              5              1             40
 TeX                                       2              3              3             36
 Forth                                     1              5              0             36
 diff                                      1              5             29             35
-Velocity Template Language                1              5              8             31
 Freemarker Template                       1             11              4             31
 Elixir                                    1              7              4             31
+Velocity Template Language                1              5              8             31
 Tcl/Tk                                    1              5              5             30
-Groovy                                    1             11              1             29
 Pascal                                    1              7             12             29
+Groovy                                    1             11              1             29
 Haml                                      1              5              2             29
-ActionScript                              1             12             11             28
 Ruby                                      1              6              1             28
 Perl                                      1              6              3             28
+ActionScript                              1             12             11             28
 Dockerfile                                2             19             24             27
 AutoHotkey                                1              6              3             26
 VHDL                                      1              9              0             25
@@ -67,30 +67,31 @@ Visual Basic                              1              1              5       
 R                                         1              4              0             16
 Vala                                      1              5              0             16
 Haxe                                      1              1              1             15
-Clojure                                   1              1              4             14
 Erlang                                    1              3              3             14
 Protocol Buffers                          1              2              0             14
-Swift                                     1              3              0             13
-Julia                                     1              2              0             13
+Clojure                                   1              1              4             14
 Assembly                                  1              5              0             13
+Julia                                     1              2              0             13
 GLSL                                      1              4              3             13
+Swift                                     1              3              0             13
 Verilog-SystemVerilog                     1              1              0             11
-Elm                                       1              2              0             10
 DOS Batch                                 1              4              1             10
 OCaml                                     1              3              5             10
-Haskell                                   1              4              6             10
 Dart                                      1              4              5             10
+Haskell                                   1              4              6             10
+Elm                                       1              2              0             10
 Windows Message File                      1              0              0              8
 Smarty                                    1              0              0              7
 Razor                                     1              0              1              6
 Java                                      1              2              7              6
 Handlebars                                1              1              1              6
-JSX                                       1              0              4              5
-Ada                                       1              0              0              5
 XQuery                                    1              1              0              5
+Ada                                       1              0              0              5
+NAnt script                               1              1              0              5
+JSX                                       1              0              4              5
 INI                                       1              0              0              4
 ColdFusion                                1              2              1              2
 COBOL                                     1              0              0              1
 ----------------------------------------------------------------------------------------
-SUM:                                   1788          39166          82237         412153
+SUM:                                   2072          49510          86626         476128
 ----------------------------------------------------------------------------------------
