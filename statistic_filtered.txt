@@ -1,51 +1,51 @@
 ----------------------------------------------------------------------------------------
 Language                              files          blank        comment           code
 ----------------------------------------------------------------------------------------
-JavaScript                             1296          34753          86757         239955
-HTML                                    655           7710          13258         117196
-C++                                    2158          10743           4896         101866
+JavaScript                             1297          34753          86757         239971
+HTML                                    681           7818          13265         120025
+C++                                    2161          10762           4904         102094
 XML                                      13              2              0          71356
 JSON                                    262             88              0          54135
 C/C++ Header                            112           7844           3177          53709
-CSS                                     141           5093            926          49334
-Markdown                                259           6323              0          22442
+CSS                                     143           5121            952          49525
+Markdown                                291           6533              0          23101
 C#                                      185           1230           1250          10344
 PHP                                     101           1210           1576           9951
+Python                                  195           2126            200           6599
 Sass                                     37            549            139           5349
-Python                                  129           1285            152           4530
 MSBuild script                           63              0            392           3953
 LESS                                     25            208            103           3900
 vim script                                4            418            313           2395
-Bourne Shell                             54            141            108           2016
+Bourne Shell                             61            145            108           2043
 C                                         5            225             68           1538
 CoffeeScript                             22            217             75           1265
 TypeScript                                9            130             10            680
 ASP.Net                                   9             29              0            563
+Bourne Again Shell                       45             45             61            469
 make                                     27            127             41            368
 Haskell                                  14             67             55            287
-MATLAB                                    9             43             41            246
-Bourne Again Shell                       18             43             61            246
 YAML                                     14             21             10            240
-DOS Batch                                13             69             54            164
+MATLAB                                    8             43             41            230
+DOS Batch                                14             70             54            169
 SQL                                       3             53             83            123
 TeX                                       3              8              3            101
 Kotlin                                    1             10             26             94
 PowerShell                                2             28             12             77
-Perl                                      2             19             19             73
 Objective C                               1             27              4             73
+Perl                                      2             19             19             73
 Scala                                     1              7              1             61
 liquid                                    1             18              0             58
 diff                                      4              5             32             44
 Stylus                                    2             11              8             41
 JSP                                       1              5              1             40
 Forth                                     1              5              0             36
-Velocity Template Language                1              5              8             31
-Freemarker Template                       1             11              4             31
 Elixir                                    1              7              4             31
+Freemarker Template                       1             11              4             31
+Velocity Template Language                1              5              8             31
 Tcl/Tk                                    1              5              5             30
 Haml                                      1              5              2             29
-Groovy                                    1             11              1             29
 Pascal                                    1              7             12             29
+Groovy                                    1             11              1             29
 ActionScript                              1             12             11             28
 Ruby                                      1              6              1             28
 Dockerfile                                2             19             24             27
@@ -56,40 +56,41 @@ GLSL                                      3              8              3       
 Go                                        1              4              8             22
 Lua                                       1              8              9             21
 ERB                                       1              4              1             21
-Fortran 90                                1              8              4             21
 EEx                                       1              4              1             21
 ABAP                                      1             11              9             21
+Fortran 90                                1              8              4             21
 Lisp                                      1              1              1             20
 Specman e                                 1              8              2             20
 Racket                                    1              1              1             19
 Rust                                      1              2              0             18
 Visual Basic                              1              1              5             17
-Ant                                       1              3              0             16
 R                                         1              4              0             16
 Vala                                      1              5              0             16
+Ant                                       1              3              0             16
+Mercury                                   1              0              0             16
 Haxe                                      1              1              1             15
-Erlang                                    1              3              3             14
 Protocol Buffers                          1              2              0             14
 Clojure                                   1              1              4             14
+Erlang                                    1              3              3             14
+Assembly                                  1              5              0             13
 Swift                                     1              3              0             13
 Julia                                     1              2              0             13
-Assembly                                  1              5              0             13
 Verilog-SystemVerilog                     1              1              0             11
-INI                                       2              0              0             10
 OCaml                                     1              3              5             10
-Elm                                       1              2              0             10
 Dart                                      1              4              5             10
+Elm                                       1              2              0             10
+INI                                       2              0              0             10
 Windows Message File                      1              0              0              8
 Smarty                                    1              0              0              7
-Java                                      1              2              7              6
-Razor                                     1              0              1              6
 Handlebars                                1              1              1              6
-XQuery                                    1              1              0              5
+Razor                                     1              0              1              6
+Java                                      1              2              7              6
 Ada                                       1              0              0              5
 NAnt script                               1              1              0              5
+XQuery                                    1              1              0              5
 JSX                                       1              0              4              5
 ColdFusion                                1              2              1              2
 COBOL                                     1              0              0              1
 ----------------------------------------------------------------------------------------
-SUM:                                   5711          78978         113803         759712
+SUM:                                   5876          80191         113892         765959
 ----------------------------------------------------------------------------------------
