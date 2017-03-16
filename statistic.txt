@@ -2,7 +2,7 @@
 classified 26618 filesDuplicate file check 26618 files (4845 known unique)Unique:      100 files                                          Unique:      200 files                                          Unique:      300 files                                          Unique:      400 files                                          Unique:      500 files                                          Unique:      600 files                                          Unique:      700 files                                          Unique:      800 files                                          Unique:      900 files                                          Unique:     1000 files                                          Unique:     1100 files                                          Unique:     1200 files                                          Unique:     1300 files                                          Unique:     1400 files                                          Unique:     1500 files                                          Unique:     1600 files                                          Unique:     1700 files                                          Unique:     1800 files                                          Unique:     1900 files                                          Unique:     2000 files                                          Unique:     2100 files                                          Unique:     2200 files                                          Unique:     2300 files                                          Unique:     2400 files                                          Unique:     2500 files                                          Unique:     2600 files                                          Unique:     2700 files                                          Unique:     2800 files                                          Unique:     2900 files                                          Unique:     3000 files                                          Unique:     3100 files                                          Unique:     3200 files                                          Unique:     3300 files                                          Unique:     3400 files                                          Unique:     3500 files                                          Unique:     3600 files                                          Unique:     3700 files                                          Unique:     3800 files                                          Unique:     3900 files                                          Unique:     4000 files                                          Unique:     4100 files                                          Unique:     4200 files                                          Unique:     4300 files                                          Unique:     4400 files                                          Unique:     4500 files                                          Unique:     4600 files                                          Unique:     4700 files                                          Unique:     4800 files                                             12457 unique files.                              
 Counting:  100Counting:  200Counting:  300Counting:  400Counting:  500Counting:  600Counting:  700Counting:  800Counting:  900Counting:  1000Counting:  1100Counting:  1200Counting:  1300Counting:  1400Counting:  1500Counting:  1600Counting:  1700Counting:  1800Counting:  1900Counting:  2000Counting:  2100Counting:  2200Counting:  2300Counting:  2400Counting:  2500Counting:  2600Counting:  2700Counting:  2800Counting:  2900Counting:  3000Counting:  3100Counting:  3200Counting:  3300Counting:  3400Counting:  3500Counting:  3600Counting:  3700Counting:  3800Counting:  3900Counting:  4000Counting:  4100Counting:  4200Counting:  4300Counting:  4400Counting:  4500Counting:  4600Counting:  4700Counting:  4800Counting:  4900Counting:  5000Counting:  5100Counting:  5200Counting:  5300Counting:  5400Counting:  5500Counting:  5600Counting:  5700Counting:  5800Counting:  5900Counting:  6000Counting:  6100Counting:  6200Counting:  6300Counting:  6400Counting:  6500Counting:  6600Counting:  6700Counting:  6800Counting:  6900Counting:  7000Counting:  7100Counting:  7200Counting:  7300Counting:  7400Counting:  7500Counting:  7600Counting:  7700Counting:  7800Counting:  7900Counting:  8000Counting:  8100Counting:  8200Counting:  8300Counting:  8400Counting:  8500Counting:  8600Counting:  8700Counting:  8800Counting:  8900Counting:  9000Counting:  9100Counting:  9200Counting:  9300Counting:  9400Counting:  9500Counting:  9600Counting:  9700Counting:  9800Counting:  9900Counting:  10000Counting:  10100Counting:  10200Counting:  10300Counting:  10400Counting:  10500Counting:  10600Counting:  10700Counting:  10800Counting:  10900Counting:  11000Counting:  11100Counting:  11200Counting:  11300Counting:  11400Counting:  11500Counting:  11600Counting:  11700Counting:  11800Counting:  11900Counting:  12000Counting:  12100Counting:  12200Counting:  12300Counting:  12400   21960 files ignored.
 
-github.com/AlDanial/cloc v 1.72  T=86.55 s (66.0 files/s, 11004.7 lines/s)
+github.com/AlDanial/cloc v 1.72  T=92.75 s (61.6 files/s, 10269.7 lines/s)
 ----------------------------------------------------------------------------------------
 Language                              files          blank        comment           code
 ----------------------------------------------------------------------------------------
@@ -28,72 +28,71 @@ TypeScript                                9            130             10       
 ASP.Net                                   9             29              0            563
 make                                     27            127             41            368
 Haskell                                  14             67             55            287
+MATLAB                                    9             43             41            246
 Bourne Again Shell                       18             43             61            246
 YAML                                     14             21             10            240
-MATLAB                                    8             43             41            230
 DOS Batch                                13             69             54            164
 SQL                                       3             53             83            123
 TeX                                       3              8              3            101
 Kotlin                                    1             10             26             94
 PowerShell                                2             28             12             77
-Objective C                               1             27              4             73
 Perl                                      2             19             19             73
+Objective C                               1             27              4             73
 Scala                                     1              7              1             61
 liquid                                    1             18              0             58
 diff                                      4              5             32             44
 Stylus                                    2             11              8             41
 JSP                                       1              5              1             40
 Forth                                     1              5              0             36
+Velocity Template Language                1              5              8             31
 Freemarker Template                       1             11              4             31
 Elixir                                    1              7              4             31
-Velocity Template Language                1              5              8             31
 Tcl/Tk                                    1              5              5             30
+Haml                                      1              5              2             29
 Groovy                                    1             11              1             29
 Pascal                                    1              7             12             29
-Haml                                      1              5              2             29
-Ruby                                      1              6              1             28
 ActionScript                              1             12             11             28
+Ruby                                      1              6              1             28
 Dockerfile                                2             19             24             27
 AutoHotkey                                1              6              3             26
 VHDL                                      1              9              0             25
 Twig                                      1              5              1             24
 GLSL                                      3              8              3             23
 Go                                        1              4              8             22
-ERB                                       1              4              1             21
-ABAP                                      1             11              9             21
-Fortran 90                                1              8              4             21
 Lua                                       1              8              9             21
+ERB                                       1              4              1             21
+Fortran 90                                1              8              4             21
 EEx                                       1              4              1             21
-Specman e                                 1              8              2             20
+ABAP                                      1             11              9             21
 Lisp                                      1              1              1             20
+Specman e                                 1              8              2             20
 Racket                                    1              1              1             19
 Rust                                      1              2              0             18
 Visual Basic                              1              1              5             17
 Ant                                       1              3              0             16
-Mathematica                               1              0              0             16
-Vala                                      1              5              0             16
 R                                         1              4              0             16
+Vala                                      1              5              0             16
 Haxe                                      1              1              1             15
-Clojure                                   1              1              4             14
 Erlang                                    1              3              3             14
 Protocol Buffers                          1              2              0             14
-Assembly                                  1              5              0             13
-Julia                                     1              2              0             13
+Clojure                                   1              1              4             14
 Swift                                     1              3              0             13
+Julia                                     1              2              0             13
+Assembly                                  1              5              0             13
 Verilog-SystemVerilog                     1              1              0             11
-OCaml                                     1              3              5             10
 INI                                       2              0              0             10
-Dart                                      1              4              5             10
+OCaml                                     1              3              5             10
 Elm                                       1              2              0             10
+Dart                                      1              4              5             10
 Windows Message File                      1              0              0              8
 Smarty                                    1              0              0              7
 Java                                      1              2              7              6
 Razor                                     1              0              1              6
 Handlebars                                1              1              1              6
-JSX                                       1              0              4              5
+XQuery                                    1              1              0              5
 Ada                                       1              0              0              5
 NAnt script                               1              1              0              5
-XQuery                                    1              1              0              5
+JSX                                       1              0              4              5
 ColdFusion                                1              2              1              2
 COBOL                                     1              0              0              1
 ----------------------------------------------------------------------------------------
