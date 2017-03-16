@@ -1,3 +1,5 @@
+cloc ../ > statistic.txt ; 
+sed -e '1,5d' < statistic.txt > statistic_filtered.txt ;
 git init
 git add -A
 git commit -m "first commit"
