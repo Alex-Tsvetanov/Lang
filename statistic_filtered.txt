@@ -1,38 +1,38 @@
 ----------------------------------------------------------------------------------------
 Language                              files          blank        comment           code
 ----------------------------------------------------------------------------------------
-JavaScript                             9330         194506         334723        1094775
+JavaScript                             9334         194531         334795        1095178
 JSON                                   1580            371              0         213871
-HTML                                    841          10016          13421         174190
-C++                                    3215          15669           7893         147864
-Markdown                               1259          52331              0         142258
+HTML                                    842          10029          13421         174304
+C++                                    3221          15703           7902         148194
+Markdown                               1260          52331              0         142259
+C/C++ Header                            204          12340           7850          74411
 XML                                      23            235             11          74393
-C/C++ Header                            203          12325           7837          74372
 CSS                                     360           5693           1414          71545
 LESS                                    590           4041           3052          27576
-PHP                                     220           1535           1589          11162
+PHP                                     220           1535           1589          11164
 C#                                      185           1230           1250          10344
 Python                                  195           2126            200           6599
 Sass                                     44            578            139           5547
 TypeScript                               59            747           2375           3981
 MSBuild script                           63              0            392           3953
 YAML                                    182            185            153           3858
-Bourne Shell                             79            453            324           3408
+Bourne Shell                             80            453            324           3416
 vim script                                4            418            313           2395
 CoffeeScript                             31            387            179           2078
 C                                         8            253             91           1627
-Bourne Again Shell                       54             81             82            868
+Bourne Again Shell                       54             81             89            868
 make                                     63            276             73            780
 Perl                                      3            106            189            655
+TeX                                       4            234              3            640
 ASP.Net                                   9             29              0            563
 Windows Module Definition                 5             83              0            414
 Groovy                                    2             64             15            309
 Haskell                                  14             67             55            287
 SQL                                       5             81            151            248
+MATLAB                                    9             43             41            246
 DOS Batch                                17             94             56            239
-MATLAB                                    8             43             41            230
 Ruby                                      4             25              3            136
-TeX                                       3              8              3            101
 Smarty                                    7             17             30             98
 Kotlin                                    1             10             26             94
 Tcl/Tk                                    2             17              7             81
@@ -52,47 +52,46 @@ Freemarker Template                       1             11              4       
 Haml                                      1              5              2             29
 Pascal                                    1              7             12             29
 ActionScript                              1             12             11             28
-Lisp                                      2              1              1             26
 AutoHotkey                                1              6              3             26
+Lisp                                      2              1              1             26
 VHDL                                      1              9              0             25
 Twig                                      1              5              1             24
 GLSL                                      3              8              3             23
 Go                                        1              4              8             22
+ERB                                       1              4              1             21
+ABAP                                      1             11              9             21
 EEx                                       1              4              1             21
 Fortran 90                                1              8              4             21
-ABAP                                      1             11              9             21
 Lua                                       1              8              9             21
-ERB                                       1              4              1             21
 Specman e                                 1              8              2             20
 Racket                                    1              1              1             19
 Rust                                      1              2              0             18
 Visual Basic                              1              1              5             17
-Mercury                                   1              0              0             16
-Ant                                       1              3              0             16
-Vala                                      1              5              0             16
 R                                         1              4              0             16
+Vala                                      1              5              0             16
+Ant                                       1              3              0             16
 Haxe                                      1              1              1             15
-Protocol Buffers                          1              2              0             14
 Erlang                                    1              3              3             14
+Protocol Buffers                          1              2              0             14
 Clojure                                   1              1              4             14
-Swift                                     1              3              0             13
 Julia                                     1              2              0             13
+Swift                                     1              3              0             13
 Assembly                                  1              5              0             13
 Verilog-SystemVerilog                     1              1              0             11
-Elm                                       1              2              0             10
-Dart                                      1              4              5             10
 INI                                       2              0              0             10
+Dart                                      1              4              5             10
+Elm                                       1              2              0             10
 OCaml                                     1              3              5             10
 Windows Message File                      1              0              0              8
 Razor                                     1              0              1              6
 Java                                      1              2              7              6
-NAnt script                               1              1              0              5
-JSX                                       1              0              4              5
 XQuery                                    1              1              0              5
+NAnt script                               1              1              0              5
 Ada                                       1              0              0              5
+JSX                                       1              0              4              5
 Pug                                       2              0              0              4
 ColdFusion                                1              2              1              2
 COBOL                                     1              0              0              1
 ----------------------------------------------------------------------------------------
-SUM:                                  18741         304419         376299        2082209
+SUM:                                  18756         304732         376400        2083645
 ----------------------------------------------------------------------------------------

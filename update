@@ -1,10 +1,17 @@
 #!/bin/bash
-for i in ../*/ ;
+#for i in ../*/ ;
+#do
+#	echo $i;
+#	cd $i;
+#	git pull;
+#	cd ../Lang;
+#done
+for i in ../*/*/ ;
 do
 	echo $i;
 	cd $i;
 	git pull;
-	cd ../Lang;
+	cd ../../Lang;
 done
 cloc ../ > statistic.txt ; 
 sed -e '1,5d' < statistic.txt > statistic_filtered.txt ;
