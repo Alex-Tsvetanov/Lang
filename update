@@ -1,11 +1,11 @@
 #!/bin/bash
-#for i in ../*/ ;
-#do
-#	echo $i;
-#	cd $i;
-#	git pull;
-#	cd ../Lang;
-#done
+for i in ../*/ ;
+do
+	echo $i;
+	cd $i;
+	git pull;
+	cd ../Lang;
+done
 for i in ../*/*/ ;
 do
 	echo $i;
